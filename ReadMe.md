@@ -1,7 +1,7 @@
 # Hello there 👋
 My name is Anouar and this is a quick snapshot about me.
 # 💫 About Me:
-🔭 I’m currently pursuing a full-time PhD in materials science ⚛️ @ [Institut des Matériaux de Nantes Jean Rouxel, Nantes, France](https://www.cnrs-imn.fr/index.html).</br> PhD's status: 🟩🟩🟩⬜⬜⬜⬜⬜⬜ 30% <br>👯 I’m looking to collaborate on any ML-related project<br>🌱 I’m currently learning about everything related to Machine Learning Interatomic Potentials (MLIPs)<br>🥊 Hobbies:<br>      - Football<br>      - UFC (just watching 😂)<br>
+🔭 I’m currently pursuing a full-time PhD in materials science ⚛️ @ [Institut des Matériaux de Nantes Jean Rouxel, Nantes, France](https://www.cnrs-imn.fr/index.html).</br> PhD's status: 🟩🟩🟩|⬜⬜⬜|⬜⬜⬜ 33% <br>👯 I’m looking to collaborate on any ML-related project<br>🌱 I’m currently learning about everything related to Machine Learning Interatomic Potentials (MLIPs)<br>🥊 Hobbies:<br>      - Football<br>      - UFC (just watching 😂)<br>
 
 
 ## 🌐 Socials:
